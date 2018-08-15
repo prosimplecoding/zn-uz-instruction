@@ -18,4 +18,4 @@ Fayllarni tahrirlashni WordPress platformasidagi matnni tahrirlash oynasi orqali
 1. Fayldagi barcha HTML teglardan nusxa olish. (Misol uchun, instruction-01.html)
 2. WordPress platformasining boshqaruv paneli orqali ushbu ketma-ketlik amalga oshiriladi: `Pages -> Add new -> Text`. HTML teglar joylashtirilgan so'ng, "Visual" bo'limiga o'tib fayldagi ma'lumotlarni tahrirlash mumkin.
 ### Ko'maklashish
-Loyihaga ko'maklashish uchun "Pull request" ochishingiz mumkin.
+Loyihaga ko'maklashish uchun "pull request" ochishingiz mumkin.
