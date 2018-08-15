@@ -10,6 +10,7 @@ Loyihada Wordpress platformasi uchun mo'ljallangan sahifalarning HTML formatdagi
 8. Ruknlarni hamda bosh menyuni yaratish
 9. WWW UZ hisoblagichini o'rnatish
 10. Sayt-satellit tizimidagi saytni o'chirish
+11. Savollarga javoblar
 
 
 ### Fayllarni tahrirlash
