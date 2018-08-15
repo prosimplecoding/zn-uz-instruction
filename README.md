@@ -4,7 +4,7 @@ Loyihada Wordpress platformasi uchun mo'ljallangan sahifalarning HTML formatdagi
 2. Birinchi yozuvni chop etish. Sahifa yaratish
 3. Blog uchun shablon tanlash
 4. Blogning yuqori qismidagi suratni o'zgartirish
-5. Surat va video joylashitirish
+5. Surat va video joylashtirish
 6. Anons va to'liq matn
 7. Maqolani belgilangan vaqtda chop etishni rejalashtirish
 8. Ruknlarni hamda bosh menyuni yaratish
