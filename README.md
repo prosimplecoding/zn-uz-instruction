@@ -1,5 +1,5 @@
 ## Loyiha haqida
-Loyihada Wordpress platformasi uchun mo'ljallangan sahifalarning HTML formatdagi fayllari mavjud bo'lib, ushbu fayllar _support.zn.uz/instruction_ manzilida foydalaniladi. Yo'riqnomalar ro'yxati quyidagicha:
+Loyihada Wordpress platformasi uchun mo'ljallangan sahifalarning HTML formatdagi fayllari mavjud bo'lib, ushbu fayllar _support.zn.uz/instruction_ manzilida foydalaniladi. Yo'riqnomalar ro'yxati:
 1. Sayt-satellit yaratish
 2. Birinchi yozuvni chop etish. Sahifa yaratish
 3. Blog uchun shablon tanlash
