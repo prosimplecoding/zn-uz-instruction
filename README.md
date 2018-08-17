@@ -6,7 +6,7 @@ Loyihada Wordpress platformasi uchun mo'ljallangan sahifalarning HTML formatdagi
 
 ### Fayllarni tahrirlash
 
-Fayllarni tahrirlashni WordPress platformasidagi matnni tahrirlash oynasi orqali amalga oshirish mumkin. Buni quyidagicha amalga oshirish mumkin.
+Fayllarni tahrirlash quyidagicha:
 1. Fayldagi barcha HTML teglardan nusxa olish. (Misol uchun, instruction-01.html)
 2. WordPress platformasining boshqaruv paneli orqali ushbu ketma-ketlik amalga oshiriladi: `Pages -> Add new -> Text`. HTML teglar joylashtirilgan so'ng, "Visual" bo'limiga o'tib fayldagi ma'lumotlarni tahrirlash mumkin.
 
