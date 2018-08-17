@@ -6,7 +6,7 @@ Loyihada Wordpress platformasi uchun mo'ljallangan sahifalarning HTML formatdagi
 3. Surat va video joylashtirish
 4. Anons va to'liq matn
 5. Maqolani belgilangan vaqtda chop etishni rejalashtirish
-6. Ruknlarni hamda bosh menyuni yaratish
+6. Bosh menyuni yaratish
 7. WWW UZ hisoblagichini o'rnatish
 8. Sayt-satellit tizimidagi saytni o'chirish
 9. Savollarga javoblar
